@@ -248,10 +248,10 @@ Contributions are welcome! Here's how you can help:
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 👨‍💻 Author
+# anmol mahajan
 
-**Mtechbro94**
-- GitHub: [@mtechbro94](https://github.com/mtechbro94)
-- Repository: [SMS-Spam-Detection-using-SVM](https://github.com/mtechbro94/SMS-Spam-Detection-using-SVM)
+****
+- Repository: [SMS-Spam-Detection-using-SVM](https://github.com/anmolm370-netizen/spam-detector-machine-learning-model)
 
 ## 🙏 Acknowledgments
 
